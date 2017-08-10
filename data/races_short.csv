@@ -1,20 +1,20 @@
-name,url,heldin,city,ofstate,state,ofcountry,country,distance_reln,distance,organized,racedirector,rd_email
-Envision Financial Run for Water,http://www.runforwater.ca,HELD_IN,Abbotsford,OF_STATE,BC,OF_COUNTRY,Canada,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,info@runforwater.ca,info@runforwater.ca
-Eisenhower Marathon,http://www.eisenhowermarathon.com,HELD_IN,Abilene,OF_STATE,KS,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,eisenhowermarathon@outlook.com,eisenhowermarathon@outlook.com
-Virginia Creeper Marathon,http://www.runtricities.org/creepermarathon,HELD_IN,Abingdon,OF_STATE,VA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,runfrankrun@hotmail.com,runfrankrun@hotmail.com
-ONU Polar Bear Indoor Marathon,http://www.onu.edu/indoormarathon,HELD_IN,Ada,OF_STATE,OH,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,j-maus@onu.edu,j-maus@onu.edu
-Hudson Mohawk Marathon,http://www.hudsonmohawkrrc.com/wintmaraps1.htm,HELD_IN,Albany,OF_STATE,NY,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,peterson@albany.edu,peterson@albany.edu
-Mohawk-Hudson River Marathon,http://www.mohawkhudsonmarathon.com,HELD_IN,Albany,OF_STATE,NY,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,racedirector@mohawkhudsonmarathon.com,racedirector@mohawkhudsonmarathon.com
-Snickers Albany Marathon (formerly the Snickers Marathon Energy Bar Mara,http://www.albanymarathon.com,HELD_IN,Albany,OF_STATE,GA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,info@albanymarathon.com,info@albanymarathon.com
-Big 5 Sporting Goods Duke City Marathon,http://www.dukecitymarathon.com,HELD_IN,Albuquerque,OF_STATE,NM,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,dukecitymarathon@prodynamic.com,dukecitymarathon@prodynamic.com
-New Year's Eve Marathon,http://www.newyearsdouble.com,HELD_IN,Allen,OF_STATE,TX,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,info@newyearsdouble.com,info@newyearsdouble.com
-Bear Brook Trail Marathon,http://www.whitemountainrunningcompany.com/events.html,HELD_IN,Allenstown,OF_STATE,NH,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,null,null
-Lehigh Valley Health Network Via Marathon (formerly the Lehigh Valley Hospital Marathon for,http://www.viamarathon.org,HELD_IN,Allentown,OF_STATE,PA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,RaceDirector@ViaNet.org,RaceDirector@ViaNet.org
-Honker's Motivational Marathon,http://www.honkersmarathon.com,HELD_IN,Anaheim,OF_STATE,CA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,pam@honkersmarathon.com,pam@honkersmarathon.com
-Big Wild Life Runs Marathon (prev. Humpy's Classic Marathon),http://www.bigwildliferuns.org,HELD_IN,Anchorage,OF_STATE,AK,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,bwlr@anchoragerunningclub.org,bwlr@anchoragerunningclub.org
-Mayor's Marathon,http://www.mayorsmarathon.com,HELD_IN,Anchorage,OF_STATE,AK,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,track@uaa.alaska.edu,track@uaa.alaska.edu
-Heartland Series - IN,http://MainlyMarathons.com,HELD_IN,Anderson,OF_STATE,IN,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,clint@MainlyMarathons.com,clint@MainlyMarathons.com
-Angel Fire Adventure Marathon,http://www.AngelFireAdventure.com,HELD_IN,Angel Fire,OF_STATE,NM,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,admin@gv-p.com,admin@gv-p.com
-Ann Arbor Marathon,http://www.theannarbormarathon.com,HELD_IN,Ann Arbor,OF_STATE,MI,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,events@champsforcharity.com,events@champsforcharity.com
-Lost Dutchman Marathon,http://www.lostdutchmanmarathon.org,HELD_IN,Apache Junction,OF_STATE,AZ,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,gmceach@msn.com,gmceach@msn.com
-Community First Fox Cities Marathon,http://www.foxcitiesmarathon.org,HELD_IN,Appleton,OF_STATE,WI,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon,DIRECTED_BY,info@foxcitiesmarathon.org,info@foxcitiesmarathon.org
+raceID,name,url,heldin,city,ofstate,state,ofcountry,country,distance_reln,distance
+1,Envision Financial Run for Water,http://www.runforwater.ca,HELD_IN,Abbotsford,OF_STATE,BC,OF_COUNTRY,Canada,HAS_RACE_DISTANCE,Marathon
+2,Eisenhower Marathon,http://www.eisenhowermarathon.com,HELD_IN,Abilene,OF_STATE,KS,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+3,Virginia Creeper Marathon,http://www.runtricities.org/creepermarathon,HELD_IN,Abingdon,OF_STATE,VA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+4,ONU Polar Bear Indoor Marathon,http://www.onu.edu/indoormarathon,HELD_IN,Ada,OF_STATE,OH,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+5,Hudson Mohawk Marathon,http://www.hudsonmohawkrrc.com/wintmaraps1.htm,HELD_IN,Albany,OF_STATE,NY,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+6,Mohawk-Hudson River Marathon,http://www.mohawkhudsonmarathon.com,HELD_IN,Albany,OF_STATE,NY,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+7,Snickers Albany Marathon (formerly the Snickers Marathon Energy Bar Mara,http://www.albanymarathon.com,HELD_IN,Albany,OF_STATE,GA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+8,Big 5 Sporting Goods Duke City Marathon,http://www.dukecitymarathon.com,HELD_IN,Albuquerque,OF_STATE,NM,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+9,New Year's Eve Marathon,http://www.newyearsdouble.com,HELD_IN,Allen,OF_STATE,TX,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+10,Bear Brook Trail Marathon,http://www.whitemountainrunningcompany.com/events.html,HELD_IN,Allenstown,OF_STATE,NH,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+11,Lehigh Valley Health Network Via Marathon (formerly the Lehigh Valley Hospital Marathon for,http://www.viamarathon.org,HELD_IN,Allentown,OF_STATE,PA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+12,Honker's Motivational Marathon,http://www.honkersmarathon.com,HELD_IN,Anaheim,OF_STATE,CA,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+13,Big Wild Life Runs Marathon (prev. Humpy's Classic Marathon),http://www.bigwildliferuns.org,HELD_IN,Anchorage,OF_STATE,AK,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+14,Mayor's Marathon,http://www.mayorsmarathon.com,HELD_IN,Anchorage,OF_STATE,AK,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+15,Heartland Series - IN,http://MainlyMarathons.com,HELD_IN,Anderson,OF_STATE,IN,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+16,Angel Fire Adventure Marathon,http://www.AngelFireAdventure.com,HELD_IN,Angel Fire,OF_STATE,NM,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+17,Ann Arbor Marathon,http://www.theannarbormarathon.com,HELD_IN,Ann Arbor,OF_STATE,MI,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+18,Lost Dutchman Marathon,http://www.lostdutchmanmarathon.org,HELD_IN,Apache Junction,OF_STATE,AZ,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
+19,Community First Fox Cities Marathon,http://www.foxcitiesmarathon.org,HELD_IN,Appleton,OF_STATE,WI,OF_COUNTRY,USA,HAS_RACE_DISTANCE,Marathon
