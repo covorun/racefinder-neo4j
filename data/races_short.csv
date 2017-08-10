@@ -1,20 +1,20 @@
-raceID,name,url
-1,Envision Financial Run for Water,http://www.runforwater.ca
-2,Eisenhower Marathon,http://www.eisenhowermarathon.com
-3,Virginia Creeper Marathon,http://www.runtricities.org/creepermarathon
-4,ONU Polar Bear Indoor Marathon,http://www.onu.edu/indoormarathon
-5,Hudson Mohawk Marathon,http://www.hudsonmohawkrrc.com/wintmaraps1.htm
-6,Mohawk-Hudson River Marathon,http://www.mohawkhudsonmarathon.com
-7,Snickers Albany Marathon (formerly the Snickers Marathon Energy Bar Mara,http://www.albanymarathon.com
-8,Big 5 Sporting Goods Duke City Marathon,http://www.dukecitymarathon.com
-9,New Year's Eve Marathon,http://www.newyearsdouble.com
-10,Bear Brook Trail Marathon,http://www.whitemountainrunningcompany.com/events.html
-11,Lehigh Valley Health Network Via Marathon (formerly the Lehigh Valley Hospital Marathon for,http://www.viamarathon.org
-12,Honker's Motivational Marathon,http://www.honkersmarathon.com
-13,Big Wild Life Runs Marathon (prev. Humpy's Classic Marathon),http://www.bigwildliferuns.org
-14,Mayor's Marathon,http://www.mayorsmarathon.com
-15,Heartland Series - IN,http://MainlyMarathons.com
-16,Angel Fire Adventure Marathon,http://www.AngelFireAdventure.com
-17,Ann Arbor Marathon,http://www.theannarbormarathon.com
-18,Lost Dutchman Marathon,http://www.lostdutchmanmarathon.org
-19,Community First Fox Cities Marathon,http://www.foxcitiesmarathon.org
+raceID,distance_reln,distance
+1,HAS_RACE_DISTANCE,Marathon
+2,HAS_RACE_DISTANCE,Marathon
+3,HAS_RACE_DISTANCE,Marathon
+4,HAS_RACE_DISTANCE,Marathon
+5,HAS_RACE_DISTANCE,Marathon
+6,HAS_RACE_DISTANCE,Marathon
+7,HAS_RACE_DISTANCE,Marathon
+8,HAS_RACE_DISTANCE,Marathon
+9,HAS_RACE_DISTANCE,Marathon
+10,HAS_RACE_DISTANCE,Marathon
+11,HAS_RACE_DISTANCE,Marathon
+12,HAS_RACE_DISTANCE,Marathon
+13,HAS_RACE_DISTANCE,Marathon
+14,HAS_RACE_DISTANCE,Marathon
+15,HAS_RACE_DISTANCE,Marathon
+16,HAS_RACE_DISTANCE,Marathon
+17,HAS_RACE_DISTANCE,Marathon
+18,HAS_RACE_DISTANCE,Marathon
+19,HAS_RACE_DISTANCE,Marathon
